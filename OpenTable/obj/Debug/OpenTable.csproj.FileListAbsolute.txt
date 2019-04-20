@@ -26,3 +26,39 @@ F:\college\3rd year\second term\database\project\OpenTable\OpenTable\obj\Debug\O
 F:\college\3rd year\second term\database\project\OpenTable\OpenTable\obj\Debug\OpenTable.Menu.resources
 F:\college\3rd year\second term\database\project\OpenTable\OpenTable\obj\Debug\OpenTable.UserControl1.resources
 F:\college\3rd year\second term\database\project\OpenTable\OpenTable\obj\Debug\OpenTable.Review.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\OpenTable.exe.config
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.exe
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.pdb
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\OpenTable.exe
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\OpenTable.pdb
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\mscorlib.dll
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\System.Net.Http.dll
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\System.Net.Http.xml
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\normidna.nlp
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\normnfc.nlp
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\normnfd.nlp
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\normnfkc.nlp
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\bin\Debug\normnfkd.nlp
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.all_restaurants.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Food.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Form1.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Make_Review.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.making_reservation.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Menu.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.My_Profile.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.my_reservations.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.UserControl1.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.pop_restaurant.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Properties.Resources.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.register_Restaurant.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.reservation.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Restaurant.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Restaurant_Profile.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Review.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Sign_in.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.Sign_up.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.specific_time.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.unconfirmed_reservation.resources
+C:\Users\user\Desktop\database project\OpenTable\OpenTable\obj\Debug\OpenTable.csproj.GenerateResource.Cache
